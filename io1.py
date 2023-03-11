@@ -1,0 +1,10 @@
+name=input("who r u?")
+city=input("Where r u from?")
+edu=input("What r ur Education?")
+age=input("How old r u?")
+
+print("So according to me!")
+print(f'My name is {name}')
+print(f'I belong to {city}')
+print(f'I am {edu}')
+print(f'I am {age} year')
